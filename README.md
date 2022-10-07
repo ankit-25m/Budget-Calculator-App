@@ -18,7 +18,3 @@ Deployed on [GitHub Pages](https://mithipster.github.io/jonas-budget-app/)
 - HTML
 - CSS
 - Iconic Framework Icons
-
-## Re-creator
-
-- Tim Acker - [MitHipster](https://github.com/MitHipster)
